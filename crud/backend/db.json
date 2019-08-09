@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Diego Vanelli",
+      "email": "diegodvanelli@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Cleia Vanelli",
+      "email": "cleiavanelli@gmail.com"
+    },
+    {
+      "name": "Ana Silva",
+      "email": "ana2@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Dalcir",
+      "email": "dalcir@gmail.com",
+      "id": 4
+    }
+  ]
+}
