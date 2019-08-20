@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "tert",
+      "description": "ertert",
+      "id": 1
+    },
+    {
+      "title": "tesfs",
+      "description": "sd fsdf",
+      "id": 2
+    },
+    {
+      "title": "xcvxcvxcv",
+      "description": "xcvxcvx",
+      "id": 3
+    },
+    {
+      "title": "xcvxcvxcv",
+      "description": "xcvxcvx",
+      "id": 4
+    },
+    {
+      "title": "teste",
+      "description": "teste",
+      "userId": "101481941981491053947",
+      "id": 5
+    }
+  ]
+}
